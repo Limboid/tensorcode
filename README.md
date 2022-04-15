@@ -1,5 +1,7 @@
 # TensorCode
 
+🚧 **This is a concept and none of it has been implemented yet** 🚧
+
 TODO: update intro sections of README after more architecture has been done
 
 Everyone should try incorperating deep learning into their software, and now anyone can do it. TensorCode turns your code into a heterogenous graph neural network with control flow programming, Y, and Z. It handles all the heavy lifting in either tensorflow, pytorch, or jax to help you transform ordinary Python objects and classes into data that neural networks can read, write, and understand.
